@@ -54,7 +54,7 @@ for i in range(180):
 t.done()
 '''
 #challenge 5
-
+'''
 import turtle as t
 t.shape("turtle")
 import random as r
@@ -96,7 +96,7 @@ else:
     t.left(110)
   t.end_fill()
 t.done()
-
+'''
 #challenge 6
 '''
 import turtle as t
@@ -117,5 +117,21 @@ for i in range(2):
   t.end_fill()
 t.done()
 '''
-  
+import turtle as t
+t.shape("turtle")
+
+t.begin_fill()
+for i in range(2):
+  for i in range(180):
+    t.color("pink")
+    t.forward(1)
+    t.left(1)
+  t.end_fill() 
+  t.begin_fill()
+  for i in range(180):
+    t.color("orange")
+    t.forward(1)
+    t.right(1)
+  t.end_fill()
+t.done()
   
