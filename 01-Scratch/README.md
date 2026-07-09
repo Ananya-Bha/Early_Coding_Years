@@ -1,5 +1,5 @@
 # Scratch Projects
-This folder contains my RocketHour Scratch projects, including games, quizzes, and interactive coding challenges.
+This folder contains my RocketHour(MY CODING SCHOOL) Scratch projects, including games, quizzes, and interactive coding challenges.
 This folder is a part of the intermediate (Checkpoint 4 - 7) and advanced(Checkpoint 1 & 2) course of my RocketHour program.
 
 These projects were originally created using Scratch during the early stage of my coding journey.
@@ -19,3 +19,7 @@ These projects helped me understand how code controls actions, events, character
 
 -----
 The projects in this repository were added to GitHub in 2026 for portfolio documentation.
+
+SCRATCH START DATE:
+
+![Scratch Start Date Screenshot](Screenshots/Scratch-Start-Date-Proof.png)
